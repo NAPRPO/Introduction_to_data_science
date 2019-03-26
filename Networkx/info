@@ -1,0 +1,20 @@
+use CE-LC.txt
+Implement the following tasks/answer the questions.
+
+1-    Build the corresponding network (G) with Networkx
+
+2-    What are number of nodes, number of edges and the average degree of the network?
+
+3-    What is the density of the network.
+
+4-    Find the minimum spanning tree in G and draw it.
+
+5-    Draw the degree distribution histogram.
+
+6-    Find the largest connected component of the network  (LC) and answer the following questions about LC (or implement the tasks):
+
+    Draw LC.
+    What is its diameter?
+    What is the center of LC?
+    What is the number of clique communities with 3 nodes?
+    (Optional, for 3 extra points) What is the name of the protein that changing its status has potentially the biggest effect on the rest of the network?
