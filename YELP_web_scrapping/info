@@ -1,0 +1,14 @@
+Use the information on the YELP website and suggest 5 top "breakfast and brunch" restaurants in the Helsinki area. 
+Here, top pick restaurans refer to those restaurants that accept credit card payment, with the average price between 8-20€, 
+have at least 5 reviews and are open in the weekend. Use plots to compare the top pick restaurants based on 
+their review counts, ratings, prices and distance from the city centre. 
+
+You can use either version 2.x or 3.x of Python for this project.
+
+In your final report you should include the following information:
+
+- A brief description of the problem
+
+- Your Python code used for scrapping, analysing and plotting data
+
+- Data plots
